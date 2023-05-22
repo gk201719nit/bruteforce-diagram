@@ -1,0 +1,2 @@
+# bruteforce-diagram
+here FIGURE.1: ENVIRONMENT SETUP TO CRACK PASSWORD   
